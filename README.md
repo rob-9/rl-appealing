@@ -1,5 +1,6 @@
 # Steering RL: Training Interventions to Mitigate Reward Hacking
 
+This repository extends Steering RL Training to study verified appeals for broken tasks and graders. See [repository context](AGENTS.md) for the proposed research plan, experiments, and metrics. The instructions below describe the inherited codebase.
 
 ## Setup
 
